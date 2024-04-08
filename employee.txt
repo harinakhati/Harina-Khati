@@ -1,0 +1,1 @@
+ID=1	Name=Utshah	Post=Manager	Salary=20000.000000ID=2	Name=Luna	Post=Accountant	Salary=25000.000000
