@@ -13,7 +13,7 @@ int main()
 }
 int factorial(int x){
 	int i,fact=1;
-	for(i=1;i<=x;i++){
+	for(i=1;i<=x;i++){o
 		fact=fact*i;
 	}
 	return fact;
